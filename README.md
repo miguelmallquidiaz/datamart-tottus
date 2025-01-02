@@ -1,4 +1,4 @@
-# datamart-tottus
+# Datamart Tottus
 El área de ventas del supermercado Tottus enfrenta dificultades en la elaboración de reportes debido a que los datos cuentan con formatos inconsistentes. Esto genera un consumo excesivo de tiempo en la recopilación, limpieza y unificación de la información, lo que retrasa la toma de decisiones estratégicas. Para solucionar este problema, se plantea la creación de un Data Mart diseñado para responder a preguntas clave de KPI, que optimizarán el análisis de datos y facilitarán la toma de decisiones informadas.
 
 ## Preguntas Formuladas:
